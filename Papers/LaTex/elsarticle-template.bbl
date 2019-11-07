@@ -1,0 +1,417 @@
+\begin{thebibliography}{47}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\href}[2]{#2}
+\providecommand{\path}[1]{#1}
+\providecommand{\DOIprefix}{doi:}
+\providecommand{\ArXivprefix}{arXiv:}
+\providecommand{\URLprefix}{URL: }
+\providecommand{\Pubmedprefix}{pmid:}
+\providecommand{\doi}[1]{\href{http://dx.doi.org/#1}{\path{#1}}}
+\providecommand{\Pubmed}[1]{\href{pmid:#1}{\path{#1}}}
+\providecommand{\bibinfo}[2]{#2}
+\ifx\xfnm\relax \def\xfnm[#1]{\unskip,\space#1}\fi
+%Type = Article
+\bibitem[{Ali et~al.(2014)Ali, Barrdear, Clews \& Southgate}]{ali2014economics}
+\bibinfo{author}{Ali, R.}, \bibinfo{author}{Barrdear, J.},
+  \bibinfo{author}{Clews, R.}, \& \bibinfo{author}{Southgate, J.}
+  (\bibinfo{year}{2014}).
+\newblock \bibinfo{title}{The economics of digital currencies}.
+\newblock {\it \bibinfo{journal}{Bank of England Quarterly Bulletin}\/},
+  (p.~\bibinfo{pages}{Q3}).
+%Type = Article
+\bibitem[{Alvarez-Ramirez et~al.(2018)Alvarez-Ramirez, Rodriguez \&
+  Ibarra-Valdez}]{Alvarez-Ramirez2018}
+\bibinfo{author}{Alvarez-Ramirez, J.}, \bibinfo{author}{Rodriguez, E.}, \&
+  \bibinfo{author}{Ibarra-Valdez, C.} (\bibinfo{year}{2018}).
+\newblock \bibinfo{title}{{Long-range correlations and asymmetry in the Bitcoin
+  market}}.
+\newblock {\it \bibinfo{journal}{Physica A: Statistical Mechanics and its
+  Applications}\/},  {\it \bibinfo{volume}{492}\/}, \bibinfo{pages}{948--955}.
+  \URLprefix \url{https://doi.org/10.1016/j.physa.2017.11.025}.
+  \DOIprefix\doi{10.1016/j.physa.2017.11.025}.
+%Type = Article
+\bibitem[{Awartani \& Maghyereh(2013)}]{awartani2013dynamic}
+\bibinfo{author}{Awartani, B.}, \& \bibinfo{author}{Maghyereh, A.~I.}
+  (\bibinfo{year}{2013}).
+\newblock \bibinfo{title}{Dynamic spillovers between oil and stock markets in
+  the gulf cooperation council countries}.
+\newblock {\it \bibinfo{journal}{Energy Economics}\/},  {\it
+  \bibinfo{volume}{36}\/}, \bibinfo{pages}{28--42}.
+%Type = Article
+\bibitem[{Balcilar et~al.(2017)Balcilar, Bouri, Gupta \&
+  Roubaud}]{balcilar2017can}
+\bibinfo{author}{Balcilar, M.}, \bibinfo{author}{Bouri, E.},
+  \bibinfo{author}{Gupta, R.}, \& \bibinfo{author}{Roubaud, D.}
+  (\bibinfo{year}{2017}).
+\newblock \bibinfo{title}{Can volume predict bitcoin returns and volatility? a
+  quantiles-based approach}.
+\newblock {\it \bibinfo{journal}{Economic Modelling}\/},  {\it
+  \bibinfo{volume}{64}\/}, \bibinfo{pages}{74--81}.
+%Type = Article
+\bibitem[{Bariviera et~al.(2017)Bariviera, Basgall, Hasperu{\'{e}} \&
+  Naiouf}]{Bariviera2017}
+\bibinfo{author}{Bariviera, A.~F.}, \bibinfo{author}{Basgall, M.~J.},
+  \bibinfo{author}{Hasperu{\'{e}}, W.}, \& \bibinfo{author}{Naiouf, M.}
+  (\bibinfo{year}{2017}).
+\newblock \bibinfo{title}{{Some stylized facts of the Bitcoin market}}.
+\newblock {\it \bibinfo{journal}{Physica A: Statistical Mechanics and its
+  Applications}\/},  {\it \bibinfo{volume}{484}\/}, \bibinfo{pages}{82--90}.
+  \DOIprefix\doi{10.1016/j.physa.2017.04.159}.
+  \href{http://arxiv.org/abs/1708.04532}{\tt arXiv:1708.04532}.
+%Type = Article
+\bibitem[{Baur et~al.(2018)Baur, Dimpfl \& Kuck}]{Baur2018}
+\bibinfo{author}{Baur, D.~G.}, \bibinfo{author}{Dimpfl, T.}, \&
+  \bibinfo{author}{Kuck, K.} (\bibinfo{year}{2018}).
+\newblock \bibinfo{title}{{Bitcoin, gold and the US dollar – A replication
+  and extension}}.
+\newblock {\it \bibinfo{journal}{Finance Research Letters}\/},  {\it
+  \bibinfo{volume}{25}\/}, \bibinfo{pages}{103--110}.
+  \DOIprefix\doi{10.1016/j.frl.2017.10.012}.
+%Type = Article
+\bibitem[{Bouri et~al.(2019)Bouri, Shahzad \& Roubaud}]{bouri2019co}
+\bibinfo{author}{Bouri, E.}, \bibinfo{author}{Shahzad, S. J.~H.}, \&
+  \bibinfo{author}{Roubaud, D.} (\bibinfo{year}{2019}).
+\newblock \bibinfo{title}{Co-explosivity in the cryptocurrency market}.
+\newblock {\it \bibinfo{journal}{Finance Research Letters}\/},  {\it
+  \bibinfo{volume}{29}\/}, \bibinfo{pages}{178--183}.
+%Type = Article
+\bibitem[{Brauneis \& Mestel(2019)}]{brauneis2019cryptocurrency}
+\bibinfo{author}{Brauneis, A.}, \& \bibinfo{author}{Mestel, R.}
+  (\bibinfo{year}{2019}).
+\newblock \bibinfo{title}{Cryptocurrency-portfolios in a mean-variance
+  framework}.
+\newblock {\it \bibinfo{journal}{Finance Research Letters}\/},  {\it
+  \bibinfo{volume}{28}\/}, \bibinfo{pages}{259--264}.
+%Type = Article
+\bibitem[{Briere et~al.(2015)Briere, Oosterlinck \&
+  Szafarz}]{briere2015virtual}
+\bibinfo{author}{Briere, M.}, \bibinfo{author}{Oosterlinck, K.}, \&
+  \bibinfo{author}{Szafarz, A.} (\bibinfo{year}{2015}).
+\newblock \bibinfo{title}{Virtual currency, tangible return: Portfolio
+  diversification with bitcoin}.
+\newblock {\it \bibinfo{journal}{Journal of Asset Management}\/},  {\it
+  \bibinfo{volume}{16}\/}, \bibinfo{pages}{365--373}.
+%Type = Article
+\bibitem[{Cheah \& Fry(2015)}]{cheah2015speculative}
+\bibinfo{author}{Cheah, E.-T.}, \& \bibinfo{author}{Fry, J.}
+  (\bibinfo{year}{2015}).
+\newblock \bibinfo{title}{Speculative bubbles in bitcoin markets? an empirical
+  investigation into the fundamental value of bitcoin}.
+\newblock {\it \bibinfo{journal}{Economics Letters}\/},  {\it
+  \bibinfo{volume}{130}\/}, \bibinfo{pages}{32--36}.
+%Type = Article
+\bibitem[{Corbet et~al.(2018)Corbet, Lucey \& Yarovaya}]{Corbet2018}
+\bibinfo{author}{Corbet, S.}, \bibinfo{author}{Lucey, B.}, \&
+  \bibinfo{author}{Yarovaya, L.} (\bibinfo{year}{2018}).
+\newblock \bibinfo{title}{{Datestamping the Bitcoin and Ethereum bubbles}}.
+\newblock {\it \bibinfo{journal}{Finance Research Letters}\/},  {\it
+  \bibinfo{volume}{26}\/}, \bibinfo{pages}{81--88}. \URLprefix
+  \url{https://doi.org/10.1016/j.frl.2017.12.006}.
+  \DOIprefix\doi{10.1016/j.frl.2017.12.006}.
+%Type = Article
+\bibitem[{Crane et~al.(1995)Crane, Froot, Mason, Perold, Merton, Bodie, Sirri
+  \& Tufano}]{crane1995global}
+\bibinfo{author}{Crane, D.~B.}, \bibinfo{author}{Froot, K.~A.},
+  \bibinfo{author}{Mason, S.~P.}, \bibinfo{author}{Perold, A.},
+  \bibinfo{author}{Merton, R.~C.}, \bibinfo{author}{Bodie, Z.},
+  \bibinfo{author}{Sirri, E.~R.}, \& \bibinfo{author}{Tufano, P.}
+  (\bibinfo{year}{1995}).
+\newblock \bibinfo{title}{The global financial system: A functional
+  perspective}, .
+%Type = Article
+\bibitem[{Demir et~al.(2018)Demir, Gozgor, Lau \& Vigne}]{demir2018does}
+\bibinfo{author}{Demir, E.}, \bibinfo{author}{Gozgor, G.},
+  \bibinfo{author}{Lau, C. K.~M.}, \& \bibinfo{author}{Vigne, S.~A.}
+  (\bibinfo{year}{2018}).
+\newblock \bibinfo{title}{Does economic policy uncertainty predict the bitcoin
+  returns? an empirical investigation}.
+\newblock {\it \bibinfo{journal}{Finance Research Letters}\/},  {\it
+  \bibinfo{volume}{26}\/}, \bibinfo{pages}{145--149}.
+%Type = Article
+\bibitem[{Diebold \& Yilmaz(2012)}]{Diebold2012}
+\bibinfo{author}{Diebold, F.~X.}, \& \bibinfo{author}{Yilmaz, K.}
+  (\bibinfo{year}{2012}).
+\newblock \bibinfo{title}{{Better to give than to receive: Predictive
+  directional measurement of volatility spillovers}}.
+\newblock {\it \bibinfo{journal}{International Journal of Forecasting}\/},
+  {\it \bibinfo{volume}{28}\/}, \bibinfo{pages}{57--66}.
+  \DOIprefix\doi{10.1016/j.ijforecast.2011.02.006}.
+%Type = Article
+\bibitem[{Dyhrberg(2016)}]{Dyhrberg2016}
+\bibinfo{author}{Dyhrberg, A.~H.} (\bibinfo{year}{2016}).
+\newblock \bibinfo{title}{{Bitcoin, gold and the dollar - A GARCH volatility
+  analysis}}.
+\newblock {\it \bibinfo{journal}{Finance Research Letters}\/},  {\it
+  \bibinfo{volume}{16}\/}, \bibinfo{pages}{85--92}. \URLprefix
+  \url{http://dx.doi.org/10.1016/j.frl.2015.10.008}.
+  \DOIprefix\doi{10.1016/j.frl.2015.10.008}.
+%Type = Article
+\bibitem[{Dyhrberg et~al.(2018)Dyhrberg, Foley \&
+  Svec}]{dyhrberg2018investible}
+\bibinfo{author}{Dyhrberg, A.~H.}, \bibinfo{author}{Foley, S.}, \&
+  \bibinfo{author}{Svec, J.} (\bibinfo{year}{2018}).
+\newblock \bibinfo{title}{How investible is bitcoin? analyzing the liquidity
+  and transaction costs of bitcoin markets}.
+\newblock {\it \bibinfo{journal}{Economics Letters}\/},  {\it
+  \bibinfo{volume}{171}\/}, \bibinfo{pages}{140--143}.
+%Type = Article
+\bibitem[{Engle(2002)}]{Engle2002}
+\bibinfo{author}{Engle, R.} (\bibinfo{year}{2002}).
+\newblock \bibinfo{title}{{Dynamic conditional correlation: A simple class of
+  multivariate generalized autoregressive conditional heteroskedasticity
+  models}}.
+\newblock {\it \bibinfo{journal}{Journal of Business and Economic
+  Statistics}\/},  {\it \bibinfo{volume}{20}\/}, \bibinfo{pages}{339--350}.
+  \DOIprefix\doi{10.1198/073500102288618487}.
+%Type = Article
+\bibitem[{Fama(1970)}]{Fama1970}
+\bibinfo{author}{Fama, E.} (\bibinfo{year}{1970}).
+\newblock \bibinfo{title}{{Efficient Capital Markets: A Review of the Theory}}.
+\newblock {\it \bibinfo{journal}{The Journal of Finance}\/},  {\it
+  \bibinfo{volume}{25(2)}\/}, \bibinfo{pages}{383--417}.
+%Type = Article
+\bibitem[{Feng et~al.(2018)Feng, Wang \& Zhang}]{Feng2018}
+\bibinfo{author}{Feng, W.}, \bibinfo{author}{Wang, Y.}, \&
+  \bibinfo{author}{Zhang, Z.} (\bibinfo{year}{2018}).
+\newblock \bibinfo{title}{{Informed trading in the Bitcoin market}}.
+\newblock {\it \bibinfo{journal}{Finance Research Letters}\/},  {\it
+  \bibinfo{volume}{26}\/}, \bibinfo{pages}{63--70}. \URLprefix
+  \url{https://doi.org/10.1016/j.frl.2017.11.009}.
+  \DOIprefix\doi{10.1016/j.frl.2017.11.009}.
+%Type = Article
+\bibitem[{Fry \& Cheah(2016)}]{Fry2016}
+\bibinfo{author}{Fry, J.}, \& \bibinfo{author}{Cheah, E.~T.}
+  (\bibinfo{year}{2016}).
+\newblock \bibinfo{title}{{Negative bubbles and shocks in cryptocurrency
+  markets}}.
+\newblock {\it \bibinfo{journal}{International Review of Financial
+  Analysis}\/},  {\it \bibinfo{volume}{47}\/}, \bibinfo{pages}{343--352}.
+  \URLprefix \url{http://dx.doi.org/10.1016/j.irfa.2016.02.008}.
+  \DOIprefix\doi{10.1016/j.irfa.2016.02.008}.
+%Type = Article
+\bibitem[{Gkillas \& Katsiampa(2018)}]{Gkillas2018}
+\bibinfo{author}{Gkillas, K.}, \& \bibinfo{author}{Katsiampa, P.}
+  (\bibinfo{year}{2018}).
+\newblock \bibinfo{title}{{An application of extreme value theory to
+  cryptocurrencies}}.
+\newblock {\it \bibinfo{journal}{Economics Letters}\/},  {\it
+  \bibinfo{volume}{164}\/}, \bibinfo{pages}{109--111}.
+  \DOIprefix\doi{10.1016/j.econlet.2018.01.020}.
+%Type = Article
+\bibitem[{Glaser et~al.(2014)Glaser, Zimmermann, Haferkorn, Weber \&
+  Siering}]{Glaser2014}
+\bibinfo{author}{Glaser, F.}, \bibinfo{author}{Zimmermann, K.},
+  \bibinfo{author}{Haferkorn, M.}, \bibinfo{author}{Weber, M.~C.}, \&
+  \bibinfo{author}{Siering, M.} (\bibinfo{year}{2014}).
+\newblock \bibinfo{title}{{Bitcoin - Asset or currency? Revealing users' hidden
+  intentions}}.
+\newblock {\it \bibinfo{journal}{ECIS 2014 Proceedings - 22nd European
+  Conference on Information Systems}\/}, .
+%Type = Article
+\bibitem[{Grinberg et~al.(2012)Grinberg, Primer, Ecosystem, Sustainable \&
+  Issues}]{Grinberg2012}
+\bibinfo{author}{Grinberg, R.}, \bibinfo{author}{Primer, B.},
+  \bibinfo{author}{Ecosystem, B.}, \bibinfo{author}{Sustainable, I.~B.}, \&
+  \bibinfo{author}{Issues, L.} (\bibinfo{year}{2012}).
+\newblock \bibinfo{title}{{Bitcoin: an innovative alternative digital
+  currency}}.
+\newblock {\it \bibinfo{journal}{Hastings Sci. {\&} Tech. LJ}\/},  {\it
+  \bibinfo{volume}{4}\/}, \bibinfo{pages}{50}. \URLprefix
+  \url{http://heinonlinebackup.com/hol-cgi-bin/get{\_}pdf.cgi?handle=hein.journals/hascietlj4{\&}section=6{\%}5Cnhttp://papers.ssrn.com/sol3/papers.cfm?abstract{\_}id=1817857}.
+%Type = Article
+\bibitem[{Guo(2019)}]{DongGuo2019Dollarization}
+\bibinfo{author}{Guo, D.} (\bibinfo{year}{2019}).
+\newblock \bibinfo{title}{A measurement of the "dollarization" feature of
+  digital currencies and policy suggestions---an empirical analysis based on
+  the currency and interest rate effects}.
+\newblock {\it \bibinfo{journal}{CHINAMONEY MONTHLY}\/},  {\it
+  \bibinfo{volume}{10}\/}, \bibinfo{pages}{69--75}.
+%Type = Article
+\bibitem[{Ji et~al.(2018)Ji, Bouri, Gupta \& Roubaud}]{Ji2018}
+\bibinfo{author}{Ji, Q.}, \bibinfo{author}{Bouri, E.}, \bibinfo{author}{Gupta,
+  R.}, \& \bibinfo{author}{Roubaud, D.} (\bibinfo{year}{2018}).
+\newblock \bibinfo{title}{{Network causality structures among Bitcoin and other
+  financial assets: A directed acyclic graph approach}}.
+\newblock {\it \bibinfo{journal}{Quarterly Review of Economics and Finance}\/},
+   {\it \bibinfo{volume}{70}\/}, \bibinfo{pages}{203--213}.
+  \DOIprefix\doi{10.1016/j.qref.2018.05.016}.
+%Type = Article
+\bibitem[{Jiang et~al.(2018)Jiang, Nie \& Ruan}]{Jiang2018}
+\bibinfo{author}{Jiang, Y.}, \bibinfo{author}{Nie, H.}, \&
+  \bibinfo{author}{Ruan, W.} (\bibinfo{year}{2018}).
+\newblock \bibinfo{title}{{Time-varying long-term memory in Bitcoin market}}.
+\newblock {\it \bibinfo{journal}{Finance Research Letters}\/},  {\it
+  \bibinfo{volume}{25}\/}, \bibinfo{pages}{280--284}.
+  \DOIprefix\doi{10.1016/j.frl.2017.12.009}.
+%Type = Article
+\bibitem[{Khuntia \& Pattanayak(2018)}]{Khuntia2018}
+\bibinfo{author}{Khuntia, S.}, \& \bibinfo{author}{Pattanayak, J.~K.}
+  (\bibinfo{year}{2018}).
+\newblock \bibinfo{title}{{Adaptive market hypothesis and evolving
+  predictability of bitcoin}}.
+\newblock {\it \bibinfo{journal}{Economics Letters}\/},  {\it
+  \bibinfo{volume}{167}\/}, \bibinfo{pages}{26--28}.
+  \DOIprefix\doi{10.1016/j.econlet.2018.03.005}.
+%Type = Article
+\bibitem[{Kim(2017)}]{Kim2017}
+\bibinfo{author}{Kim, T.} (\bibinfo{year}{2017}).
+\newblock \bibinfo{title}{{On the transaction cost of Bitcoin}}.
+\newblock {\it \bibinfo{journal}{Finance Research Letters}\/},  {\it
+  \bibinfo{volume}{23}\/}, \bibinfo{pages}{300--305}. \URLprefix
+  \url{https://doi.org/10.1016/j.frl.2017.07.014}.
+  \DOIprefix\doi{10.1016/j.frl.2017.07.014}.
+%Type = Article
+\bibitem[{Kondor et~al.(2014)Kondor, P{\'o}sfai, Csabai \&
+  Vattay}]{kondor2014rich}
+\bibinfo{author}{Kondor, D.}, \bibinfo{author}{P{\'o}sfai, M.},
+  \bibinfo{author}{Csabai, I.}, \& \bibinfo{author}{Vattay, G.}
+  (\bibinfo{year}{2014}).
+\newblock \bibinfo{title}{Do the rich get richer? an empirical analysis of the
+  bitcoin transaction network}.
+\newblock {\it \bibinfo{journal}{PloS one}\/},  {\it \bibinfo{volume}{9}\/},
+  \bibinfo{pages}{e86197}.
+%Type = Article
+\bibitem[{Koop et~al.(1996)Koop, Pesaran \& Potter}]{Koop1996}
+\bibinfo{author}{Koop, G.}, \bibinfo{author}{Pesaran, M.~H.}, \&
+  \bibinfo{author}{Potter, S.~M.} (\bibinfo{year}{1996}).
+\newblock \bibinfo{title}{{Impulse response analysis in nonlinear multivariate
+  models}}.
+\newblock {\it \bibinfo{journal}{Journal of Econometrics}\/},  {\it
+  \bibinfo{volume}{74}\/}, \bibinfo{pages}{119--147}.
+  \DOIprefix\doi{10.1016/0304-4076(95)01753-4}.
+%Type = Article
+\bibitem[{Koutmos(2018)}]{Koutmos2018}
+\bibinfo{author}{Koutmos, D.} (\bibinfo{year}{2018}).
+\newblock \bibinfo{title}{{Liquidity uncertainty and Bitcoin's market
+  microstructure}}.
+\newblock {\it \bibinfo{journal}{Economics Letters}\/},  {\it
+  \bibinfo{volume}{172}\/}, \bibinfo{pages}{97--101}. \URLprefix
+  \url{https://doi.org/10.1016/j.econlet.2018.08.041}.
+  \DOIprefix\doi{10.1016/j.econlet.2018.08.041}.
+%Type = Article
+\bibitem[{Kristoufek(2013)}]{kristoufek2013bitcoin}
+\bibinfo{author}{Kristoufek, L.} (\bibinfo{year}{2013}).
+\newblock \bibinfo{title}{Bitcoin meets google trends and wikipedia:
+  Quantifying the relationship between phenomena of the internet era}.
+\newblock {\it \bibinfo{journal}{Scientific reports}\/},  {\it
+  \bibinfo{volume}{3}\/}, \bibinfo{pages}{3415}.
+%Type = Article
+\bibitem[{Kristoufek(2018)}]{Kristoufek2018}
+\bibinfo{author}{Kristoufek, L.} (\bibinfo{year}{2018}).
+\newblock \bibinfo{title}{{On Bitcoin markets (in)efficiency and its
+  evolution}}.
+\newblock {\it \bibinfo{journal}{Physica A: Statistical Mechanics and its
+  Applications}\/},  {\it \bibinfo{volume}{503}\/}, \bibinfo{pages}{257--262}.
+  \URLprefix \url{https://doi.org/10.1016/j.physa.2018.02.161}.
+  \DOIprefix\doi{10.1016/j.physa.2018.02.161}.
+%Type = Article
+\bibitem[{Nakamoto et~al.(2008)}]{nakamoto2008bitcoin}
+\bibinfo{author}{Nakamoto, S.} et~al. (\bibinfo{year}{2008}).
+\newblock \bibinfo{title}{Bitcoin: A peer-to-peer electronic cash system}, .
+%Type = Article
+\bibitem[{Parkinson(1980)}]{parkinson1980extreme}
+\bibinfo{author}{Parkinson, M.} (\bibinfo{year}{1980}).
+\newblock \bibinfo{title}{The extreme value method for estimating the variance
+  of the rate of return}.
+\newblock {\it \bibinfo{journal}{Journal of business}\/},  (pp.
+  \bibinfo{pages}{61--65}).
+%Type = Article
+\bibitem[{Pesaran \& Shin(1998)}]{pesaran1998generalized}
+\bibinfo{author}{Pesaran, H.~H.}, \& \bibinfo{author}{Shin, Y.}
+  (\bibinfo{year}{1998}).
+\newblock \bibinfo{title}{Generalized impulse response analysis in linear
+  multivariate models}.
+\newblock {\it \bibinfo{journal}{Economics letters}\/},  {\it
+  \bibinfo{volume}{58}\/}, \bibinfo{pages}{17--29}.
+%Type = Article
+\bibitem[{Polasik et~al.(2015)Polasik, Piotrowska, Wisniewski, Kotkowski \&
+  Lightfoot}]{polasik2015price}
+\bibinfo{author}{Polasik, M.}, \bibinfo{author}{Piotrowska, A.~I.},
+  \bibinfo{author}{Wisniewski, T.~P.}, \bibinfo{author}{Kotkowski, R.}, \&
+  \bibinfo{author}{Lightfoot, G.} (\bibinfo{year}{2015}).
+\newblock \bibinfo{title}{Price fluctuations and the use of bitcoin: An
+  empirical inquiry}.
+\newblock {\it \bibinfo{journal}{International Journal of Electronic
+  Commerce}\/},  {\it \bibinfo{volume}{20}\/}, \bibinfo{pages}{9--49}.
+%Type = Article
+\bibitem[{Selgin(2015)}]{Selgin2015}
+\bibinfo{author}{Selgin, G.} (\bibinfo{year}{2015}).
+\newblock \bibinfo{title}{{Synthetic commodity money}}.
+\newblock {\it \bibinfo{journal}{Journal of Financial Stability}\/},  {\it
+  \bibinfo{volume}{17}\/}, \bibinfo{pages}{92--99}.
+  \DOIprefix\doi{10.1016/j.jfs.2014.07.002}.
+%Type = Article
+\bibitem[{Sensoy(2019)}]{Sensoy2019}
+\bibinfo{author}{Sensoy, A.} (\bibinfo{year}{2019}).
+\newblock \bibinfo{title}{{The inefficiency of Bitcoin revisited: A
+  high-frequency analysis with alternative currencies}}.
+\newblock {\it \bibinfo{journal}{Finance Research Letters}\/},  {\it
+  \bibinfo{volume}{28}\/}, \bibinfo{pages}{68--73}.
+  \DOIprefix\doi{10.1016/j.frl.2018.04.002}.
+%Type = Article
+\bibitem[{Symitsi \& Chalvatzis(2018)}]{symitsi2018return}
+\bibinfo{author}{Symitsi, E.}, \& \bibinfo{author}{Chalvatzis, K.~J.}
+  (\bibinfo{year}{2018}).
+\newblock \bibinfo{title}{Return, volatility and shock spillovers of bitcoin
+  with energy and technology companies}.
+\newblock {\it \bibinfo{journal}{Economics Letters}\/},  {\it
+  \bibinfo{volume}{170}\/}, \bibinfo{pages}{127--130}.
+%Type = Article
+\bibitem[{Trabelsi(2018{\natexlab{a}})}]{Trabelsi2018}
+\bibinfo{author}{Trabelsi, N.} (\bibinfo{year}{2018}{\natexlab{a}}).
+\newblock \bibinfo{title}{{Are There Any Volatility Spill-Over Effects among
+  Cryptocurrencies and Widely Traded Asset Classes?}}
+\newblock {\it \bibinfo{journal}{Journal of Risk and Financial Management}\/},
+  {\it \bibinfo{volume}{11}\/}, \bibinfo{pages}{66}.
+  \DOIprefix\doi{10.3390/jrfm11040066}.
+%Type = Article
+\bibitem[{Trabelsi(2018{\natexlab{b}})}]{trabelsi2018there}
+\bibinfo{author}{Trabelsi, N.} (\bibinfo{year}{2018}{\natexlab{b}}).
+\newblock \bibinfo{title}{Are there any volatility spill-over effects among
+  cryptocurrencies and widely traded asset classes?}
+\newblock {\it \bibinfo{journal}{Journal of Risk and Financial Management}\/},
+  {\it \bibinfo{volume}{11}\/}, \bibinfo{pages}{66}.
+%Type = Article
+\bibitem[{Urquhart(2016)}]{urquhart2016inefficiency}
+\bibinfo{author}{Urquhart, A.} (\bibinfo{year}{2016}).
+\newblock \bibinfo{title}{The inefficiency of bitcoin}.
+\newblock {\it \bibinfo{journal}{Economics Letters}\/},  {\it
+  \bibinfo{volume}{148}\/}, \bibinfo{pages}{80--82}.
+%Type = Article
+\bibitem[{Vidal-Tom{\'{a}}s \& Iba{\~{n}}ez(2018)}]{Vidal-Tomas2018}
+\bibinfo{author}{Vidal-Tom{\'{a}}s, D.}, \& \bibinfo{author}{Iba{\~{n}}ez, A.}
+  (\bibinfo{year}{2018}).
+\newblock \bibinfo{title}{{Semi-strong efficiency of Bitcoin}}.
+\newblock {\it \bibinfo{journal}{Finance Research Letters}\/},  {\it
+  \bibinfo{volume}{27}\/}, \bibinfo{pages}{259--265}.
+  \DOIprefix\doi{10.1016/j.frl.2018.03.013}.
+%Type = Article
+\bibitem[{Wu \& Pandey(2014)}]{Wu2014}
+\bibinfo{author}{Wu, C.~Y.}, \& \bibinfo{author}{Pandey, V.~K.}
+  (\bibinfo{year}{2014}).
+\newblock \bibinfo{title}{{The Value of Bitcoin in Enhancing the Efficiency of
+  an Investor's Portfolio}}.
+\newblock {\it \bibinfo{journal}{Journal of Financial Planning}\/},  {\it
+  \bibinfo{volume}{27}\/}, \bibinfo{pages}{44--52}. \URLprefix
+  \url{http://eds.a.ebscohost.com.ezproxy.unal.edu.co/eds/pdfviewer/pdfviewer?sid=153c24ab-355a-4b53-bc87-d77a37864377@sessionmgr4002{\&}vid=9{\&}hid=4110}.
+%Type = Article
+\bibitem[{Yi et~al.(2018)Yi, Xu \& Wang}]{Yi2018}
+\bibinfo{author}{Yi, S.}, \bibinfo{author}{Xu, Z.}, \& \bibinfo{author}{Wang,
+  G.~J.} (\bibinfo{year}{2018}).
+\newblock \bibinfo{title}{{Volatility connectedness in the cryptocurrency
+  market: Is Bitcoin a dominant cryptocurrency?}}
+\newblock {\it \bibinfo{journal}{International Review of Financial
+  Analysis}\/},  {\it \bibinfo{volume}{60}\/}, \bibinfo{pages}{98--114}.
+  \URLprefix \url{https://doi.org/10.1016/j.irfa.2018.08.012}.
+  \DOIprefix\doi{10.1016/j.irfa.2018.08.012}.
+%Type = Article
+\bibitem[{Zhang et~al.(2018)Zhang, Wang, Li \& Shen}]{zhang2018quantifying}
+\bibinfo{author}{Zhang, W.}, \bibinfo{author}{Wang, P.}, \bibinfo{author}{Li,
+  X.}, \& \bibinfo{author}{Shen, D.} (\bibinfo{year}{2018}).
+\newblock \bibinfo{title}{Quantifying the cross-correlations between online
+  searches and bitcoin market}.
+\newblock {\it \bibinfo{journal}{Physica A: Statistical Mechanics and its
+  Applications}\/},  {\it \bibinfo{volume}{509}\/}, \bibinfo{pages}{657--672}.
+
+\end{thebibliography}

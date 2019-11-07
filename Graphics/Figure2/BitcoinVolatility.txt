@@ -1,0 +1,72 @@
+
+#!/usr/bin/python3
+# -*- coding: utf-8 -*-
+
+import pandas as pd
+import seaborn as sns
+import numpy as np
+import matplotlib.pyplot as plt
+from sklearn.preprocessing import MinMaxScaler,StandardScaler
+
+
+
+rootdir = "C:/Users/JianLei/Desktop/"
+path_Cryptocurrency = rootdir + "Sigma_log.csv"
+
+data  = pd.read_csv(path_Cryptocurrency)
+time_colume = 'Date'
+ts = pd.to_datetime(data[time_colume])
+del data[time_colume]
+
+#sns.set_style("whitegrid")
+Bitcoin = data['Bitcoin']
+
+Volume = data['volume'] /1e10
+
+#Close = data['close'] / 1000
+plt.rc('font',family='Times New Roman')
+fig, ax1 = plt.subplots()
+ax2 = ax1.twinx()
+
+#plt.legend(loc =2,fontsize=8)
+
+plt.rcParams['savefig.dpi'] = 2000 #图片像素2000
+plt.rcParams['figure.dpi'] = 2000 #分辨率
+plt.title("Bitcoin Market",fontsize=15)
+''''
+plt.axvline(x='2018/01/01', c='black',ls="--", lw=0.8)
+plt.axvline(x='2018/09/24', c='black',ls="--", lw=0.8)
+plt.axvline(x='2018/12/01', c='black',ls="--", lw=0.8)
+#plt.axvspan('2017/03/1', '2019/09/27', alpha=0.2, color='lightgray') #填充灰色区域
+
+plt.annotate('1 December,2018',xy = ('2018/12/01',5.2),xytext= (+3,+20),textcoords = 'offset points',
+             arrowprops = dict(arrowstyle = '->',connectionstyle = None),fontsize=8)
+plt.annotate('24 September,2018',xy = ('2018/09/24',5.2),xytext= (-70,+20),textcoords = 'offset points',
+             arrowprops = dict(arrowstyle = '->',connectionstyle = None),fontsize=8)
+             '''
+ax2.plot(ts,Volume,color = 'cornflowerblue',linewidth=0.8)
+ax2.set_ylabel("Volume (Billion US Dollar)")
+#ax2.plot(ts,Close)
+ax1.plot(ts,Bitcoin,color ='red',linewidth=1)
+ax1.set_ylabel("Volatility")
+ax1.legend(['Volatility'],loc =2,fontsize=8)
+ax2.legend(['Volume'],loc = 2,bbox_to_anchor =(0,0.94),fontsize=8)
+#plt.legend()
+plt.axvline(x='2018/01/01', c='black',ls="--", lw=0.8)
+plt.axvline(x='2018/09/24', c='black',ls="--", lw=0.8)
+plt.axvline(x='2018/12/01', c='black',ls="--", lw=0.8)
+plt.axvline(x='2017/08/18', c='black',ls="--", lw=0.8)
+plt.axvline(x='2019/03/28', c='black',ls="--", lw=0.8)
+#plt.axvline(x='2019/08/05', c='black',ls="--", lw=0.8)
+plt.annotate('301 Investigation',xy = ('2017/08/18',0.2),xytext= (-60,+20),textcoords = 'offset points',
+             arrowprops = dict(arrowstyle = '->',connectionstyle = None),fontsize=8)
+plt.annotate('$2000 billion tariff',xy = ('2018/09/24',4),xytext= (-70,+20),textcoords = 'offset points',
+             arrowprops = dict(arrowstyle = '->',connectionstyle = None),fontsize=8)
+plt.annotate('G20 Summit',xy = ('2018/12/01',4),xytext= (5,+20),textcoords = 'offset points',
+             arrowprops = dict(arrowstyle = '->',connectionstyle = None),fontsize=8)
+plt.annotate('8th China-US meeting',xy = ('2019/03/28',0),xytext= (5,+20),textcoords = 'offset points',
+             arrowprops = dict(arrowstyle = '->',connectionstyle = None),fontsize=8,horizontalalignment='left')
+plt.rcParams['savefig.dpi'] = 2000 #图片像素2000
+plt.rcParams['figure.dpi'] = 2000 #分辨率
+plt.show()
+fig.savefig("C:/Users/JianLei/Desktop/BitcoinVolatility.png")

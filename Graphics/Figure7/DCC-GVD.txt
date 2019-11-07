@@ -1,0 +1,46 @@
+
+#!/usr/bin/python3
+# -*- coding: utf-8 -*-
+
+import pandas as pd
+import seaborn as sns
+import numpy as np
+import matplotlib.pyplot as plt
+from sklearn.preprocessing import MinMaxScaler,StandardScaler
+
+name='GUE'
+
+
+name_csv = "Correlations"
+
+rootdir = "C:/Users/JianLei/Desktop/LastVersion/Graphics/Figure7/"
+path_Cryptocurrency = rootdir +name_csv + ".csv"
+
+data  = pd.read_csv(path_Cryptocurrency)
+time_colume = 'Date'
+ts = pd.to_datetime(data[time_colume])
+del data[time_colume]
+
+plt.rc('font',family='Times New Roman')
+
+DCC = data['DCC_'+name]
+Model = data[name]
+
+fig = plt.figure()
+plt.rcParams['savefig.dpi'] = 600 #图片像素2000
+plt.rcParams['figure.dpi'] = 600  #分辨率
+plt.title("Bitcoin-"+name,fontsize=15)
+ax1 = fig.add_subplot(111)
+ax1.plot(ts,DCC,color = 'red',linewidth=1,label ='DCC')
+ax1.set_ylabel("DCC-Garch")
+ax2 = ax1.twinx()
+ax2.plot(ts, Model,label ='GVD',color = 'cornflowerblue')
+ax2.set_ylabel("GVD")
+plt.axvline(x='2018/09/1', c='black',ls="--", lw=0.8)
+plt.annotate('1 September,2018',xy = ('2018/09/01',8),xytext= (-70,+20),textcoords = 'offset points',
+             arrowprops = dict(arrowstyle = '->',connectionstyle = None),fontsize=8)
+fig.legend(loc =2,bbox_to_anchor =(0.11,0.92),fontsize=8)
+plt.show()
+fig.savefig("C:/Users/JianLei/Desktop/LastVersion/Graphics/Figure7/"+name+"-DCC-GVD.png")
+
+

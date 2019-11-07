@@ -1,0 +1,40 @@
+
+#!/usr/bin/python3
+# -*- coding: utf-8 -*-
+
+import pandas as pd
+import seaborn as sns
+import numpy as np
+import matplotlib.pyplot as plt
+from sklearn.preprocessing import MinMaxScaler,StandardScaler
+
+
+name = "ISG"
+
+rootdir = "C:/Users/JianLei/Desktop/LastVersion/Graphics/Figure3/"
+path_Cryptocurrency = rootdir + name + ".csv"
+
+data  = pd.read_csv(path_Cryptocurrency)
+time_colume = 'Date'
+ts = pd.to_datetime(data[time_colume])
+del data[time_colume]
+
+plt.rc('font',family='Times New Roman')
+fig = plt.figure()
+plt.rcParams['savefig.dpi'] = 600 #图片像素2000
+plt.rcParams['figure.dpi'] = 600 #分辨率
+plt.title("Bitcoin-" + name,fontsize=15)
+
+Bitcoin = data['Bitcoin']
+template = data[name]
+temp = np.sqrt(Bitcoin * template)
+plt.plot(ts, temp,c = 'red')
+plt.axvline(x='2018/09/01', c='black',ls="--", lw=0.8)
+
+
+plt.annotate('1 September,2018',xy = ('2018/09/01',6),xytext= (-70,+20),textcoords = 'offset points',
+             arrowprops = dict(arrowstyle = '->',connectionstyle = None),fontsize=8)
+
+plt.show()
+fig.savefig(rootdir + name+ ".png")
+

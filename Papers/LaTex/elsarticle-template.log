@@ -1,0 +1,876 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.10.7)  7 NOV 2019 10:47
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**elsarticle-template.tex
+(./elsarticle-template.tex
+LaTeX2e <2018-12-01>
+
+(d:/Soft/LaTex/Latex/texlive/2019/texmf-dist/tex/latex/elsarticle/elsarticle.cl
+s
+Document Class: elsarticle 2019/02/25, 3.2: Elsevier Ltd
+\@bls=\dimen102
+(d:/Soft/LaTex/Latex/texlive/2019/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+(d:/Soft/LaTex/Latex/texlive/2019/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen103
+)
+(d:/Soft/LaTex/Latex/texlive/2019/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(d:/Soft/LaTex/Latex/texlive/2019/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(d:/Soft/LaTex/Latex/texlive/2019/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(d:/Soft/LaTex/Latex/texlive/2019/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(d:/Soft/LaTex/Latex/texlive/2019/texmf-dist/tex/latex/graphics-cfg/graphics.cf
+g
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(d:/Soft/LaTex/Latex/texlive/2019/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+)
+\c@tnote=\count88
+\c@fnote=\count89
+\c@cnote=\count90
+\c@ead=\count91
+\c@author=\count92
+\@eadauthor=\toks15
+\c@affn=\count93
+\absbox=\box27
+\elsarticlehighlightsbox=\box28
+\elsarticlegrabsbox=\box29
+\keybox=\box30
+\Columnwidth=\dimen106
+\space@left=\dimen107
+\els@boxa=\box31
+\els@boxb=\box32
+\leftMargin=\dimen108
+\@enLab=\toks16
+\@sep=\skip43
+\@@sep=\skip44
+ (./elsarticle-template.spl)
+(d:/Soft/LaTex/Latex/texlive/2019/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip45
+\bibsep=\skip46
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count94
+)
+\splwrite=\write3
+\openout3 = `elsarticle-template.spl'.
+
+\appnamewidth=\dimen109
+)
+(d:/Soft/LaTex/Latex/texlive/2019/texmf-dist/tex/latex/lineno/lineno.sty
+Package: lineno 2005/11/02 line numbers on paragraphs v4.41
+\linenopenalty=\count95
+\output=\toks17
+\linenoprevgraf=\count96
+\linenumbersep=\dimen110
+\linenumberwidth=\dimen111
+\c@linenumber=\count97
+\c@pagewiselinenumber=\count98
+\c@LN@truepage=\count99
+\c@internallinenumber=\count100
+\c@internallinenumbers=\count101
+\quotelinenumbersep=\dimen112
+\bframerule=\dimen113
+\bframesep=\dimen114
+\bframebox=\box33
+LaTeX Info: Redefining \\ on input line 3056.
+)
+(d:/Soft/LaTex/Latex/texlive/2019/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2018/11/30 v6.88e Hypertext links for LaTeX
+
+(d:/Soft/LaTex/Latex/texlive/2019/texmf-dist/tex/generic/oberdiek/hobsub-hyperr
+ef.sty
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+(d:/Soft/LaTex/Latex/texlive/2019/texmf-dist/tex/generic/oberdiek/hobsub-generi
+c.sty
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+(d:/Soft/LaTex/Latex/texlive/2019/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(d:/Soft/LaTex/Latex/texlive/2019/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+(d:/Soft/LaTex/Latex/texlive/2019/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen115
+\Hy@linkcounter=\count102
+\Hy@pagecounter=\count103
+
+(d:/Soft/LaTex/Latex/texlive/2019/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2018/11/30 v6.88e Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+\Hy@SavedSpaceFactor=\count104
+
+(d:/Soft/LaTex/Latex/texlive/2019/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4519.
+Package hyperref Info: Link nesting OFF on input line 4524.
+Package hyperref Info: Hyper index ON on input line 4527.
+Package hyperref Info: Plain pages OFF on input line 4534.
+Package hyperref Info: Backreferencing OFF on input line 4539.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4772.
+\c@Hy@tempcnt=\count105
+ (d:/Soft/LaTex/Latex/texlive/2019/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5125.
+\XeTeXLinkMargin=\dimen116
+\Fld@menulength=\count106
+\Field@Width=\dimen117
+\Fld@charsize=\dimen118
+Package hyperref Info: Hyper figures OFF on input line 6380.
+Package hyperref Info: Link nesting OFF on input line 6385.
+Package hyperref Info: Hyper index ON on input line 6388.
+Package hyperref Info: backreferencing OFF on input line 6395.
+Package hyperref Info: Link coloring OFF on input line 6400.
+Package hyperref Info: Link coloring with OCG OFF on input line 6405.
+Package hyperref Info: PDF/A mode OFF on input line 6410.
+LaTeX Info: Redefining \ref on input line 6450.
+LaTeX Info: Redefining \pageref on input line 6454.
+\Hy@abspage=\count107
+\c@Item=\count108
+\c@Hfootnote=\count109
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(d:/Soft/LaTex/Latex/texlive/2019/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2018/11/30 v6.88e Hyperref driver for pdfTeX
+\Fld@listcount=\count110
+\c@bookmark@seq@number=\count111
+
+(d:/Soft/LaTex/Latex/texlive/2019/texmf-dist/tex/latex/oberdiek/rerunfilecheck.
+sty
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip47
+)
+(d:/Soft/LaTex/Latex/texlive/2019/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+(d:/Soft/LaTex/Latex/texlive/2019/texmf-dist/tex/latex/oberdiek/pdflscape.sty
+Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
+(d:/Soft/LaTex/Latex/texlive/2019/texmf-dist/tex/latex/mdwtools/footnote.sty
+Package: footnote 1997/01/28 1.13 Save footnotes around boxes
+\fn@notes=\box34
+\fn@width=\dimen119
+)
+(d:/Soft/LaTex/Latex/texlive/2019/texmf-dist/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+\subfigtopskip=\skip48
+\subfigcapskip=\skip49
+\subfigcaptopadj=\dimen120
+\subfigbottomskip=\skip50
+\subfigcapmargin=\dimen121
+\subfiglabelskip=\skip51
+\c@subfigure=\count112
+\c@lofdepth=\count113
+\c@subtable=\count114
+\c@lotdepth=\count115
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(d:/Soft/LaTex/Latex/texlive/2019/texmf-dist/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip52
+\subfig@bottom=\skip53
+) (d:/Soft/LaTex/Latex/texlive/2019/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count116
+\float@exts=\toks18
+\float@box=\box35
+\@float@everytoks=\toks19
+\@floatcapt=\box36
+)
+
+! LaTeX Error: Option clash for package hyperref.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 \modulolinenumbers
+                      [5]
+The package hyperref has already been loaded with options:
+  []
+There has now been an attempt to load it with options
+  [colorlinks,linkcolor=red]
+Adding the global options:
+  ,colorlinks,linkcolor=red
+to your \documentclass declaration may fix this.
+Try typing  <return>  to proceed.
+
+(./numcompress.sty
+Package: numcompress 2012/08/18 187 numcompress (CVR)
+
+
+Package numcompress Warning: ****************************************
+(numcompress)                Package numcompress v,187 loaded
+(numcompress)                [Compress numbers (CVR)]
+(numcompress)                ****************************************.
+
+) (./elsarticle-template.aux)
+\openout1 = `elsarticle-template.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+
+(d:/Soft/LaTex/Latex/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mki
+i
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count117
+\scratchdimen=\dimen122
+\scratchbox=\box37
+\nofMPsegments=\count118
+\nofMParguments=\count119
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count120
+\MPscratchDim=\dimen123
+\MPnumerator=\count121
+\makeMPintoPDFobject=\count122
+\everyMPtoPDFconversion=\toks21
+)
+(d:/Soft/LaTex/Latex/texlive/2019/texmf-dist/tex/latex/oberdiek/epstopdf-base.s
+ty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+ (d:/Soft/LaTex/Latex/texlive/2019/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(d:/Soft/LaTex/Latex/texlive/2019/texmf-dist/tex/latex/latexconfig/epstopdf-sys
+.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\AtBeginShipoutBox=\box38
+Package hyperref Info: Link coloring OFF on input line 18.
+
+(d:/Soft/LaTex/Latex/texlive/2019/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+(d:/Soft/LaTex/Latex/texlive/2019/texmf-dist/tex/generic/oberdiek/gettitlestrin
+g.sty
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count123
+)
+LaTeX Info: Redefining \ref on input line 18.
+LaTeX Info: Redefining \pageref on input line 18.
+LaTeX Info: Redefining \nameref on input line 18.
+ (./elsarticle-template.out) (./elsarticle-template.out)
+\@outlinefile=\write4
+\openout4 = `elsarticle-template.out'.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 44.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 44.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 44.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 44.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 44.
+
+Overfull \hbox (2.22221pt too wide) has occurred while \output is active
+[] 
+ []
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\<let>-command' on input line 50.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\comma' on input line 50.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\<def>-command' on input line 50.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\@fnmark' on input line 50.
+
+[1
+
+
+{d:/Soft/LaTex/Latex/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+] [2] [3] [4] [5] [6]
+<BitcoinMarket.png, id=347, 462.528pt x 346.896pt>
+File: BitcoinMarket.png Graphic file (type png)
+<use BitcoinMarket.png>
+Package pdftex.def Info: BitcoinMarket.png  used on input line 105.
+(pdftex.def)             Requested size: 323.76738pt x 242.82553pt.
+ [7] [8pdfTeX warning (ext4): destination with the same identifier (name{figure
+.1}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.111 
+       <./BitcoinMarket.png>]
+Overfull \hbox (2.10242pt too wide) in paragraph at lines 112--113
+\OT1/cmr/m/n/10 safe haven as-sets, are also taken into ac-count. Ac-tu-ally, w
+e use data of USD/CHF
+ []
+
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 129--129
+[][][]\OT1/cmr/m/n/8 Namely, the Aug-mented Dickey-Fuller (ADF), Phillips-Perro
+n (PP) and
+ []
+
+[10]
+<BitcoinVolatility.png, id=399, 462.528pt x 346.896pt>
+File: BitcoinVolatility.png Graphic file (type png)
+<use BitcoinVolatility.png>
+Package pdftex.def Info: BitcoinVolatility.png  used on input line 133.
+(pdftex.def)             Requested size: 323.76738pt x 242.82553pt.
+
+Underfull \hbox (badness 1874) in paragraph at lines 134--134
+[]\OT1/cmr/m/n/8 Figure 2: []Daily Bit-coin mar-ket volatil-ity and vol-ume (an
+-nu-al-ized stan-dard de-vi-a-
+ []
+
+[11pdfTeX warning (ext4): destination with the same identifier (name{figure.2})
+ has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.140 
+       <./BitcoinVolatility.png>]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 145.
+
+! Argument of \@tempf has an extra }.
+<inserted text> 
+                \par 
+l.149 ...y related to stock markets \footnotemark}
+                                                  
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+\@captype {\@xfootnotemark }\def \reserved@b {\stepcounter {footnote}\ETC.
+! Paragraph ended before \@tempf was complete.
+<to be read again> 
+                   \par 
+l.149 ...y related to stock markets \footnotemark}
+                                                  
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+
+Overfull \hbox (8.39882pt too wide) in paragraph at lines 171--172
+ [][] 
+ []
+
+[12pdfTeX warning (ext4): destination with the same identifier (name{table.1}) 
+has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.180 
+      ]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 182.
+
+
+Overfull \hbox (8.39882pt too wide) in paragraph at lines 208--209
+ [][] 
+ []
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 218.
+
+[13pdfTeX warning (ext4): destination with the same identifier (name{table.2}) 
+has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.250 
+      ] [14pdfTeX warning (ext4): destination with the same identifier (name{ta
+ble.3}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.266 
+      ]
+
+! LaTeX Error: Bad math environment delimiter.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.272 \[
+        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing { inserted.
+<to be read again> 
+                   ^
+l.273 ...}^{H-1} ({e_i^'} A_h \Sigma {A_h^'} e_i)}
+                                                  
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.273 ...}^{H-1} ({e_i^'} A_h \Sigma {A_h^'} e_i)}
+                                                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing { inserted.
+<to be read again> 
+                   ^
+l.273 ...}^{H-1} ({e_i^'} A_h \Sigma {A_h^'} e_i)}
+                                                  
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Missing { inserted.
+<to be read again> 
+                   ^
+l.273 ...}^{H-1} ({e_i^'} A_h \Sigma {A_h^'} e_i)}
+                                                  
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+
+! LaTeX Error: Bad math environment delimiter.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.274 \]
+        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.274 \]
+        
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.274 \]
+        
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+[15] [16]
+
+! LaTeX Error: Bad math environment delimiter.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.329 \[
+        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing { inserted.
+<to be read again> 
+                   ^
+l.330 ...m\limits_{i=1}^Q \xi_i (z_{t-i}{z_{t-i}^'
+                                                  }) + \sum\limits_{i=1}^P \...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+
+! LaTeX Error: Bad math environment delimiter.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.331 \]
+        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.331 \]
+        
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Undefined control sequence.
+<recently read> \x 
+                   
+l.334 ... $\Phi_t$ and the parameters, such as $\x
+                                                  _i$ and $\theta_j$ (for $i...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[17]
+Overfull \hbox (13.77834pt too wide) in paragraph at lines 347--348
+\OT1/cmr/m/n/10 we will con-cen-trate on the wor-thy ob-jects, which brings the
+ main con-clu-sions.Lastly,
+ []
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 352.
+
+[18] [19pdfTeX warning (ext4): destination with the same identifier (name{table
+.4}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.397 
+      ] [20]
+<IFG.png, id=515, 462.528pt x 346.896pt>
+File: IFG.png Graphic file (type png)
+<use IFG.png>
+Package pdftex.def Info: IFG.png  used on input line 412.
+(pdftex.def)             Requested size: 155.24895pt x 116.43451pt.
+<IFG-NET.png, id=516, 462.528pt x 346.896pt>
+File: IFG-NET.png Graphic file (type png)
+<use IFG-NET.png>
+Package pdftex.def Info: IFG-NET.png  used on input line 415.
+(pdftex.def)             Requested size: 155.24895pt x 116.43451pt.
+<ISG.png, id=517, 462.528pt x 346.896pt>
+File: ISG.png Graphic file (type png)
+<use ISG.png>
+Package pdftex.def Info: ISG.png  used on input line 420.
+(pdftex.def)             Requested size: 155.24895pt x 116.43451pt.
+<ISG-NET.png, id=518, 462.528pt x 346.896pt>
+File: ISG-NET.png Graphic file (type png)
+<use ISG-NET.png>
+Package pdftex.def Info: ISG-NET.png  used on input line 423.
+(pdftex.def)             Requested size: 155.24895pt x 116.43451pt.
+<DFG.png, id=519, 462.528pt x 346.896pt>
+File: DFG.png Graphic file (type png)
+<use DFG.png>
+Package pdftex.def Info: DFG.png  used on input line 428.
+(pdftex.def)             Requested size: 155.24895pt x 116.43451pt.
+<DFG-NET.png, id=520, 462.528pt x 346.896pt>
+File: DFG-NET.png Graphic file (type png)
+<use DFG-NET.png>
+Package pdftex.def Info: DFG-NET.png  used on input line 431.
+(pdftex.def)             Requested size: 155.24895pt x 116.43451pt.
+ [21pdfTeX warning (ext4): destination with the same identifier (name{figure.3}
+) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.439 
+       <./IFG.png> <./IFG-NET.png> <./ISG.png> <./ISG-NET.png> <./DFG.png> <./D
+FG-NET.png>]
+<UFE.png, id=548, 462.528pt x 346.896pt>
+File: UFE.png Graphic file (type png)
+<use UFE.png>
+Package pdftex.def Info: UFE.png  used on input line 445.
+(pdftex.def)             Requested size: 155.24895pt x 116.43451pt.
+<UJE.png, id=549, 462.528pt x 346.896pt>
+File: UJE.png Graphic file (type png)
+<use UJE.png>
+Package pdftex.def Info: UJE.png  used on input line 448.
+(pdftex.def)             Requested size: 155.24895pt x 116.43451pt.
+ [22pdfTeX warning (ext4): destination with the same identifier (name{figure.4}
+) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.458 
+       <./UFE.png> <./UJE.png>]
+<SH300.png, id=561, 462.528pt x 346.896pt>
+File: SH300.png Graphic file (type png)
+<use SH300.png>
+Package pdftex.def Info: SH300.png  used on input line 467.
+(pdftex.def)             Requested size: 155.24895pt x 116.43451pt.
+<SH300-Net.png, id=562, 462.528pt x 346.896pt>
+File: SH300-Net.png Graphic file (type png)
+<use SH300-Net.png>
+Package pdftex.def Info: SH300-Net.png  used on input line 470.
+(pdftex.def)             Requested size: 155.24895pt x 116.43451pt.
+ [23pdfTeX warning (ext4): destination with the same identifier (name{figure.5}
+) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.477 
+       <./SH300.png> <./SH300-NET.png>]
+<USDX.png, id=578, 462.528pt x 346.896pt>
+File: USDX.png Graphic file (type png)
+<use USDX.png>
+Package pdftex.def Info: USDX.png  used on input line 488.
+(pdftex.def)             Requested size: 155.24895pt x 116.43451pt.
+<USDX-Net.png, id=579, 462.528pt x 346.896pt>
+File: USDX-Net.png Graphic file (type png)
+<use USDX-Net.png>
+Package pdftex.def Info: USDX-Net.png  used on input line 491.
+(pdftex.def)             Requested size: 155.24895pt x 116.43451pt.
+ [24pdfTeX warning (ext4): destination with the same identifier (name{figure.6}
+) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.503 
+       <./USDX.png> <./USDX-NET.png>]
+<UFE-DCC-GVD.png, id=592, 462.528pt x 346.896pt>
+File: UFE-DCC-GVD.png Graphic file (type png)
+<use UFE-DCC-GVD.png>
+Package pdftex.def Info: UFE-DCC-GVD.png  used on input line 509.
+(pdftex.def)             Requested size: 155.24895pt x 116.43451pt.
+<GUE-DCC-GVD.png, id=593, 462.528pt x 346.896pt>
+File: GUE-DCC-GVD.png Graphic file (type png)
+<use GUE-DCC-GVD.png>
+Package pdftex.def Info: GUE-DCC-GVD.png  used on input line 512.
+(pdftex.def)             Requested size: 155.24895pt x 116.43451pt.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 521.
+
+[25pdfTeX warning (ext4): destination with the same identifier (name{figure.7})
+ has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.540 \subsubsection{Granger Test}
+                                   <./UFE-DCC-GVD.png> <./GUE-DCC-GVD.png>]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 543.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 567.
+
+[26pdfTeX warning (ext4): destination with the same identifier (name{table.5}) 
+has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.600 \section{Conclusions and Implications}
+                                            pdfTeX warning (ext4): destination 
+with the same identifier (name{table.6}) has been already used, duplicate ignor
+ed
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.600 \section{Conclusions and Implications}
+                                            ]
+Overfull \hbox (1.86183pt too wide) in paragraph at lines 601--602
+\OT1/cmr/m/n/10 cryp-tocur-rency mar-ket and con-ven-tional fi-nan-cial mar-ket
+s, in-clud-ing gold, stocks
+ []
+
+[27pdfTeX warning (ext4): destination with the same identifier (name{table.7}) 
+has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.605 
+      ] (./elsarticle-template.bbl [28] [29]
+Underfull \hbox (badness 2376) in paragraph at lines 214--223
+\OT1/cmr/m/it/10 4\OT1/cmr/m/n/10 , 50. URL: []$\OT1/cmtt/m/n/10 http : / / hei
+nonlinebackup . com / hol-[]cgi-[]bin / get{_}pdf .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 214--223
+\OT1/cmtt/m/n/10 cgi ? handle = hein . journals / hascietlj4{&}section = 6{%}5C
+nhttp :
+ []
+
+[30] [31] [32]
+Underfull \hbox (badness 1910) in paragraph at lines 391--399
+\OT1/cmr/m/n/10 44--52. URL: []$\OT1/cmtt/m/n/10 http : / / eds . a . ebscohost
+ . com . ezproxy . unal . edu . co / eds /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 391--399
+\OT1/cmtt/m/n/10 pdfviewer / pdfviewer ? sid = 153c24ab-[]355a-[]4b53-[]bc87-[]
+d77a37864377 @
+ []
+
+)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 611.
+ [33]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 611.
+ (./elsarticle-template.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 611.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 611.
+Package rerunfilecheck Info: File `elsarticle-template.out' has not changed.
+(rerunfilecheck)             Checksum: 67A46366728A5905CE028B45F450BA17;2124.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 611.
+ ) 
+Here is how much of TeX's memory you used:
+ 6626 strings out of 492623
+ 97753 string characters out of 6125300
+ 208958 words of memory out of 5000000
+ 10292 multiletter control sequences out of 15000+600000
+ 8018 words of font info for 29 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 32i,9n,34p,1512b,1397s stack positions out of 5000i,500n,10000p,200000b,80000s
+<d:/Soft/LaTex/Latex/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mbx10.pfb><d:/Soft/LaTex/Latex/texlive/2019/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmex10.pfb><d:/Soft/LaTex/Latex/texlive/2019/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmmi10.pfb><d:/Soft/LaTex/Latex/texlive/2019/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmmi6.pfb><d:/Soft/LaTex/Latex/texlive/2019/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmmi7.pfb><d:/Soft/LaTex/Latex/texlive/2019/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><d:/Soft/LaTex/Latex/texlive/201
+9/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><d:/Soft/LaTex/Latex/texl
+ive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><d:/Soft/LaTex/Late
+x/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><d:/Soft/LaTe
+x/Latex/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><d:/Sof
+t/LaTex/Latex/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb>
+<d:/Soft/LaTex/Latex/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cms
+y10.pfb><d:/Soft/LaTex/Latex/texlive/2019/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmsy5.pfb><d:/Soft/LaTex/Latex/texlive/2019/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmsy7.pfb><d:/Soft/LaTex/Latex/texlive/2019/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmsy8.pfb><d:/Soft/LaTex/Latex/texlive/2019/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmti10.pfb><d:/Soft/LaTex/Latex/texlive/2019/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmti8.pfb><d:/Soft/LaTex/Latex/texlive/2019/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb><d:/Soft/LaTex/Latex/texliv
+e/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
+Output written on elsarticle-template.pdf (33 pages, 11610938 bytes).
+PDF statistics:
+ 835 PDF objects out of 1000 (max. 8388607)
+ 741 compressed objects within 8 object streams
+ 179 named destinations out of 1000 (max. 500000)
+ 305 words of extra memory for PDF output out of 10000 (max. 10000000)
+

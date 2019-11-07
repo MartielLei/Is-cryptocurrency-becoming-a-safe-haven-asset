@@ -1,0 +1,1 @@
+With using order(mgarch dcc, more detail, please seeing "help mgarch" in stata), we calculate these results.

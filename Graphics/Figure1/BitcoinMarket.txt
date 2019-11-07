@@ -1,0 +1,48 @@
+
+#!/usr/bin/python3
+# -*- coding: utf-8 -*-
+
+import pandas as pd
+import seaborn as sns
+import numpy as np
+import matplotlib.pyplot as plt
+from sklearn.preprocessing import MinMaxScaler,StandardScaler
+
+
+
+rootdir = "C:/Users/JianLei/Desktop/"
+path_Cryptocurrency = rootdir + "Bitcoin_preprocessing.csv"
+
+data  = pd.read_csv(path_Cryptocurrency)
+time_colume = 'Date'
+ts = pd.to_datetime(data[time_colume])
+del data[time_colume]
+
+#sns.set_style("whitegrid")
+Volume = data['Volume'] / (1e10 )
+MarketCap = data["Market Cap"] /(1e10)
+plt.rc('font',family='Times New Roman')
+fig = plt.figure()
+ax1 = fig.add_subplot(111)
+ax1.plot(ts,MarketCap,color = 'red',label ='Market Cap',linewidth=1 )
+#plt.legend(['Market Cap'],loc = 0)
+ax1.set_ylabel("Market Cap (Billion Dollar)")
+ax2 = ax1.twinx()
+ax2.bar(ts,Volume,color = 'cornflowerblue',label ='Volume')
+ax2.set_ylabel("Volume (Billion Dollar)")
+fig.legend(loc =2,bbox_to_anchor =(0.1,0.92),fontsize=8)
+plt.rcParams['savefig.dpi'] = 2000 #图片像素2000
+plt.rcParams['figure.dpi'] = 2000 #分辨率
+plt.title("Bitcoin Market",fontsize=15)
+plt.axvline(x='2017/03/1', c='black',ls="--", lw=0.8)
+plt.axvline(x='2018/09/1', c='black',ls="--", lw=0.8)
+plt.axvline(x='2019/09/27', c='black',ls="--", lw=0.8)
+plt.axvspan('2017/03/1', '2019/09/27', alpha=0.2, color='lightgray') #填充灰色区域
+#plt.axvspan('2017/03/1', '2018/09/1', alpha=0.2, color='lightgray') #填充灰色区域
+#plt.axvspan('2018/09/1','2019/09/27',alpha=0.4, color='lightgray') #填充灰色区域
+plt.annotate('1 March,2017',xy = ('2017/03/01',3.5),xytext= (-50,+20),textcoords = 'offset points',
+             arrowprops = dict(arrowstyle = '->',connectionstyle = None),fontsize=8)
+plt.annotate('1 September,2018',xy = ('2018/09/01',3.5),xytext= (+3,+20),textcoords = 'offset points',
+             arrowprops = dict(arrowstyle = '->',connectionstyle = None),fontsize=8)
+plt.show()
+fig.savefig("C:/Users/JianLei/Desktop/BitcoinMarket.png")

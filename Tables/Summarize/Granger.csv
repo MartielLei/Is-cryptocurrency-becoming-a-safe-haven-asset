@@ -1,0 +1,11 @@
+,Other assets do not Granger-cause Bitcoin ,,,,Bitcoin do not Granger-cause other assets ,,
+,All Sample,First Stage,Second Stage,,All Sample,First Stage,Second Stage
+SH300,1.13,0.61,0.41,,6.57**,0.14,7.46***
+SP500,0.48,0.62,0.15,,0.59,1.55,0.17
+USDX,5.50**,2.49,0.25,,4.53**,0.24,0.02
+ISG,0.24,0.03,1.22,,0.01,0.24,0.66
+IFG,0.4,0.45,0.52,,0.77,0.98,0.41
+DFG,0.01,0,1.8,,0.01,0.21,0.76
+UFE,8.41***,3.39*,1.87,,10.59***,3.45*,1.35
+UJE,4.66**,0.12,2.03,,414.70***,0.38,3.95**
+GUE,1.37,3.46*,0.03,,0.57,0.83,0

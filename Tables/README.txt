@@ -1,0 +1,1 @@
+From Table4 to Table 7, we input indrectly while looking at the screen.
